@@ -1,5 +1,5 @@
 # sme-bi-course-application
-For this stage of the application, we will ask you to create a screencast and two corresponding virtual machine exercises for a specific portion of your course outline. 
+For this stage of the application, we will ask you to create a screencast and two corresponding virtual machine exercises for a specific portion of your course outline.
 
 ### Getting Started 
 
@@ -15,7 +15,7 @@ Screencasts are used in business intelligence (BI) courses to demonstrate to lea
  
  *Tips for recording the screencast: make sure the audio narration is clear and not too fast to follow. It’s often easier to first record the audio and then record your screen while listening to the audio.* 
 
-- [*] Upload your screencast to your platform of choice (e.g., Dropbox, Google Drive) and paste the link here: https://www.catallaxyservices.com/media/Videos/Lesson%203%20Part%201.mp4
+- [x] Upload your screencast to your platform of choice (e.g., Dropbox, Google Drive) and paste the link here: https://www.catallaxyservices.com/media/Videos/Chapter%201%20Lesson%202.mp4
 
 ### Step 2: Virtual Machine Exercises
 
